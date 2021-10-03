@@ -1,5 +1,7 @@
 ### Hi there 👋
-<a href = "https://github-readme-stats.vercel.app/api?username=Shivansh-Thakur"> 
+<a href = "https://github-readme-stats.vercel.app/api?username=Shivansh-Thakur&show_icons=true&theme=radical"> stats </a><br>
+<a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Thakur&layout=compact"> Languages </a> 
+
 <!--
 **Shivansh-Thakur/Shivansh-Thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
