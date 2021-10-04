@@ -4,7 +4,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivansh-thakur&show_icons=true&theme=radical) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivansh-thakur&show_icons=true)<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-thakur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
