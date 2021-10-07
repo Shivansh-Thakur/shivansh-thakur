@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivansh-thakur&show_icons=true)<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-thakur)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-thakur&theme=great-gatsby)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-thakur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
